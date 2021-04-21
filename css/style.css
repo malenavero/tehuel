@@ -33,12 +33,12 @@ h1 {
 
 .parpadea {
     animation-name: parpadeo;
-    animation-duration: 0.3s;
+    animation-duration: 5s;
     animation-timing-function: linear;
     animation-iteration-count: infinite;
     
     -webkit-animation-name:parpadeo;
-    -webkit-animation-duration: 0.3s;
+    -webkit-animation-duration: 5s;
     -webkit-animation-timing-function: linear;
     -webkit-animation-iteration-count: infinite;
     }
