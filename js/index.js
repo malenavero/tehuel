@@ -6,7 +6,7 @@ function diasSinTehuel(){
 
     let diff = actualDate.getTime() - initialDate.getTime();
     let daysPassed = Math.round(diff / (1000 * 60 * 60 * 24));
-    document.body.innerHTML = `<article><h1 class="parpadea">${daysPassed} DÍAS SIN TEHUEL<h1></article>`;
+    document.body.innerHTML = `<article><h1 class="parpadea">${daysPassed} DÍAS SIN TEHUEL</h1></article>`;
     return daysPassed
 }
 

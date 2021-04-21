@@ -28,17 +28,24 @@ h1 {
     color: rgb(251, 251, 251);
     line-height: 1em;
     text-align:center;
+
 }
 
-
-/* .parpadea {
+img {
+    display: inline-block;
+    position: absolute;
+    width: 100vh;
+    height: 5%;
+    bottom: 25px;
+}
+.parpadea {
     animation-name: parpadeo;
-    animation-duration: 5s;
+    animation-duration: 7s;
     animation-timing-function: linear;
     animation-iteration-count: infinite;
     
     -webkit-animation-name:parpadeo;
-    -webkit-animation-duration: 5s;
+    -webkit-animation-duration: 7s;
     -webkit-animation-timing-function: linear;
     -webkit-animation-iteration-count: infinite;
     }
@@ -60,8 +67,4 @@ h1 {
     50% { opacity: 0.0; }
     100% { opacity: 1.0; }
     }
-
-
- */
-
 
