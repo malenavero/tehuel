@@ -30,7 +30,7 @@ h1 {
     text-align:center;
 }
 
-
+/* preguntar en clase si hay una forma mas facil */
 .parpadea {
     animation-name: parpadeo;
     animation-duration: 5s;
